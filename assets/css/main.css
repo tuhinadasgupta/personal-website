@@ -2538,6 +2538,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		margin-top: 2em;
 	}
 
 		ul.icons li {
@@ -3486,5 +3487,5 @@ input, select, textarea {
 
 	}
 #header-text{
-	background-color: black; 	
+	background-color: rgb(85, 83, 74); 	
 }
